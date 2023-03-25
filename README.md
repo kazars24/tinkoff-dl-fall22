@@ -1,1 +1,1 @@
-# inkoff Generation Deep Learning course fall 2022
+# Tinkoff Generation DL course fall 2022
